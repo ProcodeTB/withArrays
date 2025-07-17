@@ -54,7 +54,7 @@
                             "name": ""
                         },
                         {
-                            "id": 1,
+                            "id": null,
                             "image": "2",
                             "idHeader1": "CAZ-00024244",
                             "idHeader2": "",
@@ -63,7 +63,7 @@
                         {
                             "id": 2,
                             "image": "3",
-                            "idHeader1": "",
+                            "idHeader1": null,
                             "idHeader2": "Aleksanyan",
                             "name": "Morrison Valenzuela"
                         }
@@ -86,7 +86,7 @@
                     ],
                     "friends": [
                         {
-                            "id": 0,
+                            "id": null,
                             "image": ".",
                             "idHeader1": "CAZ",
                             "idHeader2": "hro",
@@ -102,7 +102,7 @@
                         {
                             "id": 2,
                             "image": "zz",
-                            "idHeader1": "",
+                            "idHeader1": null,
                             "idHeader2": "test",
                             "name": "Sherri Clayton"
                         }
